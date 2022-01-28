@@ -11,5 +11,12 @@ links:
 output:
   postcards::jolla
 ---
- 
-Add text here.
+
+Hey! I'm Mike Page, Data Scientist at the British Red Cross. I build tools to
+help find those most in need, such as the [COVID-19 Vulnerability Index](https://github.com/britishredcrosssociety/covid-19-vulnerability)
+and [Resilience Index](https://github.com/britishredcrosssociety/resilience-index).
+I also build open source tools for the charity and voluntary sector that make
+data science easier, such as the [humaniverse](https://github.com/humaniverse)
+suite of R packages and [Shiny Panda](https://github.com/MikeJohnPage/shiny-panda). 
+
+Outside of work I like to mountain bike, climb, snowboard, and surf.
